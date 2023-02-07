@@ -18,7 +18,9 @@
                     "https://i.pinimg.com/236x/e0/b8/36/e0b836b9b9697619ee38df0699378e0c.jpg",
                       "https://i.pinimg.com/236x/57/ba/c0/57bac024bc03e0689e433193ee7cb756.jpg"
                     ],
-                    "videoPost":[]
+                    "videoPost":["https://media.chingari.io/uploads/e31fb621-7859-4c0c-88be-5a5fa0af75b1-1651307542807/webpath_e31fb621-7859-4c0c-88be-5a5fa0af75b1-1651307542807.mp4,
+                    https://media.chingari.io/uploads/ad846faa-ce4e-48c6-86a8-668643103257-1651307564171/webpath_ad846faa-ce4e-48c6-86a8-668643103257-1651307564171.mp4,
+                    https://media.chingari.io/uploads/f8067cd6-999c-4dd4-a464-9ccd49ba724a-1658035840001/webpath_f8067cd6-999c-4dd4-a464-9ccd49ba724a-1658035840001.mp4]
                     }
                   }
               },
@@ -42,7 +44,9 @@
                     "https://i.pinimg.com/236x/e0/b8/36/e0b836b9b9697619ee38df0699378e0c.jpg",
                       "https://i.pinimg.com/236x/57/ba/c0/57bac024bc03e0689e433193ee7cb756.jpg"
                     ],
-                    "videoPost":[]
+                    "videoPost":["https://media.chingari.io/uploads/efd3f3bd-80f0-4fab-9b79-59c958a0b289-1671932560025/webpath_efd3f3bd-80f0-4fab-9b79-59c958a0b289-1671932560025.mp4",
+                    "https://media.chingari.io/apipublic/uploads/postMedia/632576104cf996065f006b9e/4d41a5a8-496c-4e7b-ab4d-3c25529863f5/video/4d41a5a8-496c-4e7b-ab4d-3c25529863f5-1673913692779-1673892582806.mp4",
+                    ]
                     }
                   }
               },
